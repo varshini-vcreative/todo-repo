@@ -1,6 +1,14 @@
 [
   {
-    "task": "A",
-    "done": false
+    "task": "Sample Task",
+    "done": false,
+    "priority": "Low",
+    "dueDate": null
+  },
+  {
+    "task": "Change the sheets ",
+    "done": true,
+    "priority": "High",
+    "dueDate": "2025-07-08"
   }
 ]
