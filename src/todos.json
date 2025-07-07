@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "task": "Add",
+    "done": false,
+    "priority": "Medium",
+    "dueDate": null
+  },
+  {
+    "task": "Edit",
+    "done": false,
+    "priority": "Low",
+    "dueDate": null
+  },
+  {
+    "task": "Delete",
+    "done": false,
+    "priority": "Medium",
+    "dueDate": null
+  },
+  {
+    "task": "Sample task",
+    "done": false,
+    "priority": "High",
+    "dueDate": null
+  }
+]
