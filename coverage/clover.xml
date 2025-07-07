@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1751541401215" clover="3.2.0">
-  <project timestamp="1751541401215" name="All files">
+<coverage generated="1751890544593" clover="3.2.0">
+  <project timestamp="1751890544593" name="All files">
     <metrics statements="35" coveredstatements="35" conditionals="20" coveredconditionals="20" methods="9" coveredmethods="9" elements="64" coveredelements="64" complexity="0" loc="35" ncloc="35" packages="1" files="1" classes="1"/>
-    <file name="todo.js" path="C:\Project\todoList\todo.js">
+    <file name="todo.js" path="C:\Project\todoList\src\todo.js">
       <metrics statements="35" coveredstatements="35" conditionals="20" coveredconditionals="20" methods="9" coveredmethods="9"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
-      <line num="7" count="34" type="cond" truecount="2" falsecount="0"/>
-      <line num="8" count="33" type="stmt"/>
-      <line num="12" count="21" type="stmt"/>
-      <line num="16" count="12" type="stmt"/>
-      <line num="17" count="12" type="stmt"/>
-      <line num="18" count="12" type="stmt"/>
-      <line num="19" count="12" type="stmt"/>
-      <line num="23" count="10" type="stmt"/>
-      <line num="27" count="3" type="stmt"/>
-      <line num="28" count="3" type="cond" truecount="4" falsecount="0"/>
-      <line num="29" count="2" type="stmt"/>
-      <line num="30" count="2" type="stmt"/>
-      <line num="31" count="2" type="stmt"/>
-      <line num="35" count="2" type="stmt"/>
-      <line num="36" count="2" type="cond" truecount="4" falsecount="0"/>
-      <line num="37" count="1" type="stmt"/>
-      <line num="38" count="1" type="stmt"/>
-      <line num="39" count="1" type="stmt"/>
-      <line num="43" count="3" type="stmt"/>
-      <line num="44" count="3" type="cond" truecount="4" falsecount="0"/>
-      <line num="45" count="2" type="stmt"/>
-      <line num="46" count="2" type="stmt"/>
-      <line num="47" count="2" type="stmt"/>
-      <line num="51" count="3" type="stmt"/>
-      <line num="52" count="3" type="cond" truecount="6" falsecount="0"/>
-      <line num="53" count="2" type="stmt"/>
-      <line num="54" count="2" type="stmt"/>
-      <line num="55" count="2" type="stmt"/>
-      <line num="56" count="2" type="stmt"/>
-      <line num="60" count="1" type="stmt"/>
-      <line num="61" count="1" type="stmt"/>
+      <line num="7" count="76" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="75" type="stmt"/>
+      <line num="12" count="48" type="stmt"/>
+      <line num="16" count="21" type="stmt"/>
+      <line num="17" count="21" type="stmt"/>
+      <line num="18" count="21" type="stmt"/>
+      <line num="19" count="21" type="stmt"/>
+      <line num="23" count="36" type="stmt"/>
+      <line num="27" count="5" type="stmt"/>
+      <line num="28" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="29" count="4" type="stmt"/>
+      <line num="30" count="4" type="stmt"/>
+      <line num="31" count="4" type="stmt"/>
+      <line num="35" count="4" type="stmt"/>
+      <line num="36" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="37" count="3" type="stmt"/>
+      <line num="38" count="3" type="stmt"/>
+      <line num="39" count="3" type="stmt"/>
+      <line num="43" count="4" type="stmt"/>
+      <line num="44" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="45" count="3" type="stmt"/>
+      <line num="46" count="3" type="stmt"/>
+      <line num="47" count="3" type="stmt"/>
+      <line num="51" count="5" type="stmt"/>
+      <line num="52" count="5" type="cond" truecount="6" falsecount="0"/>
+      <line num="53" count="4" type="stmt"/>
+      <line num="54" count="4" type="stmt"/>
+      <line num="55" count="4" type="stmt"/>
+      <line num="56" count="4" type="stmt"/>
+      <line num="60" count="2" type="stmt"/>
+      <line num="61" count="2" type="stmt"/>
       <line num="64" count="1" type="stmt"/>
     </file>
   </project>
